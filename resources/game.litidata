@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<litidata version="1.0">
+ <maps/>
+ <spriteSheets>
+  <sprite width="1" height="1" name="blue">
+   <image>iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNgYPj/HwADAgH/OSkZvgAAAABJRU5ErkJggg==</image>
+  </sprite>
+  <sprite width="1" height="1" name="green">
+   <image>iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNg+M/wHwAEAQH/rrVV9QAAAABJRU5ErkJggg==</image>
+  </sprite>
+  <sprite width="1" height="1" name="red">
+   <image>iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP4z8DwHwAFAAH/VscvDQAAAABJRU5ErkJggg==</image>
+  </sprite>
+ </spriteSheets>
+ <tilesets/>
+ <emitters/>
+ <blueprints/>
+ <sounds/>
+</litidata>
