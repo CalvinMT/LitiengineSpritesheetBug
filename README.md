@@ -2,7 +2,8 @@
  https://forum.litiengine.com/d/71-weird-bug-when-loading-spritesheets-sub-images
 
 ## :warning: WARNING
-In order to launch the program and make the bug appear, the user needs to add the **in-development v0.4.18-alpha** LITIengine library to this program's build path.
+In order to launch the program and make the bug appear, the user needs to add the **in-development v0.4.18-alpha** LITIengine library to this program's build path.  
+Link: [LITIengine](https://github.com/gurkenlabs/litiengine)
 
 ## Information
 When launched, this program displays a red screen with a text "red" in the middle and a number "0" in the top-left corner.  
