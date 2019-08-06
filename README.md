@@ -9,9 +9,9 @@ Link: [LITIengine](https://github.com/gurkenlabs/litiengine)
 When launched, this program displays a red screen with a text "red" in the middle and a number "0" in the top-left corner.  
 One can use the left and right arrow keys to navigate between colors (red, green & blue).  
 The text in the center of the screen indicates on the color currently showing.  
-Numbers on top of the screen are their only for visual guidance (0, 1 & 2).
+Numbers on top of the screen are there only for visual guidance (0, 1 & 2).
 
 ## Bug
-In order to reproduce the bug, the user might need to launch the program more than once, as the bug comes and goes randomly (but shouldn't take too long).
+In order to reproduce the bug, the user might need to launch the program more than once, as the bug comes and goes randomly (but shouldn't take too many attempts).
 
-The user will know once the bug has appeared because the color of the screen won't match with the centered text, indicating on the color that is supposed to show.
+The user will know once the bug has appeared because the color of the screen won't match with the centered text, indicating on the color that is supposed to be shown.
